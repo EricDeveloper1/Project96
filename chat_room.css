@@ -1,0 +1,9 @@
+#logout_button {
+    position: absolute;
+    right: 10px;
+    top: 20px;
+}
+
+body {
+    background:linear-gradient(lightskyblue, lightseagreen) no-repeat;
+}
